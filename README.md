@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @godmid
+- 👋 Hi, I’m @DarkFox
 - 👀 I’m interested in DIY
-- 🌱 I’m currently learning IEEE
+- 🌱 I’m currently learning EE
 - 💞️ I’m looking for some friend who like doing something interesting as well.
 - 📫 You can reach me by qq,my number is 494752893.
 
