@@ -8,7 +8,7 @@
 ***
 + 小项目：
  - [【pcb_idcard】帅气的pcb名片](https://github.com/godmid/pcb_idcard)![](https://unv-shield.librian.net/api/unv_shield?repo=godmid/pcb_idcard&url=https://cdn.jsdelivr.net/gh/godmid/godmid/01.png)
- - [【Hall-Effect-Sensor】一个极其小巧简单的霍尔传感器模块](https://github.com/godmid/Hall-Effect-Sensor)![](https://unv-shield.librian.net/api/unv_shield?repo=godmid/Hall-Effect-Sensor&url=https://cdn.jsdelivr.net/gh/godmid/godmid/01.png)
+ - [【Hall-Effect-Sensor】极其小巧的霍尔传感器模块](https://github.com/godmid/Hall-Effect-Sensor)![](https://unv-shield.librian.net/api/unv_shield?repo=godmid/Hall-Effect-Sensor&url=https://cdn.jsdelivr.net/gh/godmid/godmid/01.png)
 
 <!---
 godmid/godmid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
