@@ -1,4 +1,4 @@
-<img align='right' src='https://cdn.jsdelivr.net/gh/godmid/godmid/logo3.png' width='410px'>
+<img align='right' src='https://cdn.jsdelivr.net/gh/godmid/godmid/00.png' width='410px'>
 
 + 您好，我是冥狐,因为主人戈米德去抓嫌疑人去了，所以由我来介绍一下
 + 首先，我主人是名电子工程师（据我了解，算是吧
